@@ -1,0 +1,16 @@
+{
+    "channels":
+        [
+            -1001978319159,
+            -1001760896418
+        ],
+    "bots":
+        [
+            {
+                "API_ID": 12345678, 
+                "API_HASH": "25tt4t2fbawda66bf3beb43d7476d5f", 
+                "PHONE": "8913333999", 
+                "PASSWORD": "password"
+            }
+        ]
+}
